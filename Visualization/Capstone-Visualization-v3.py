@@ -10,19 +10,6 @@ import spidev
 import gpiod
 import time
 
-class SquarePlotWidget(pg.PlotWidget):
-    def __init__(self, xrange=None, yrange=None, **kwargs):
-        super().__init__(**kwargs)
-        vb = self.getPlotItem().getViewBox()
-        vb.setAspectLocked(True, ratio=1)
-        if xrange: self.setXRange(*xrange)
-        if yrange: self.setYRange(*yrange)
-
-    def sizeHint(self):
-        s = super().sizeHint()
-        side = min(s.width(), s.height())
-        return QSize(side, side)
-
 class MyWindow(QMainWindow):
     def __init__(self):
         super().__init__()
