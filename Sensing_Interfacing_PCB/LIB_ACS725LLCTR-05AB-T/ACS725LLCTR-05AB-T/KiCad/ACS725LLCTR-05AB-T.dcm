@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS725LLCTR-05AB-T
+D High-Accuracy, 3.3V Isolated Current Sensor with Stray Field Rejection
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs725-datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

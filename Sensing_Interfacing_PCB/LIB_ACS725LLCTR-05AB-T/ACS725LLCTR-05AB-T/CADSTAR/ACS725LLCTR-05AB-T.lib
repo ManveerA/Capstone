@@ -1,0 +1,16 @@
+.ACS725LLCTR-05AB-T :1 ;High-Accuracy, 3.3V Isolated Current Sensor with Stray Field Rejection
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="IP+_1" 2="IP+_2" 3="IP-_1" 4="IP-_2" 5="GND" 6="FILTER" 7="VIOUT" 8="VCC"
+*MXP 8
+*DFN ACS725LLCTR-05AB-T
+~!Mouser Part Number (250-725LLCTR05ABT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS725LLCTR-05AB-T?qs=pUKx8fyJudD0gM9RcXk04g%3D%3D)
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (ACS725LLCTR-05AB-T)
+~!Link Datasheet (https://www.allegromicro.com/-/media/files/datasheets/acs725-datasheet.ashx)
+~!Height (1.75mm)
+~!3D_Model (ACS725LLCTR-05AB-T)
+ACS725LLCTR-05AB-T
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

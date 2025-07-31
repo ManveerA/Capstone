@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACS725LLCTR_05AB_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "ACS725LLCTR-05AB-T" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "250-725LLCTR05ABT", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS725LLCTR-05AB-T?qs=pUKx8fyJudD0gM9RcXk04g%3D%3D", "High-Accuracy, 3.3V Isolated Current Sensor with Stray Field Rejection", "https://www.allegromicro.com/-/media/files/datasheets/acs725-datasheet.ashx", "1.75 mm"
+END_PART
+
+END.

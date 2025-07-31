@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=ACS725LLCTR-05AB-T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=9.1
+Released=2021-12-08 15:29:15
+Downloaded=2025-05-08 22:35:27
+3D=Y

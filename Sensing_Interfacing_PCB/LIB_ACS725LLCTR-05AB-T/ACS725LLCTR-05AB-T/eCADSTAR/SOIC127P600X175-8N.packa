@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ACS725LLCTR-05AB-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-16-22:33:29)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)
