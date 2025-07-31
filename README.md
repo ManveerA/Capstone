@@ -4,6 +4,6 @@ Team 34 Members:
 
 Manveer Aujla - manveeraujla0226@gmail.com
 
-Gavin Feher - 31music4@gmail.com
+Gavin Feher - gavin.feher@gmail.com
 
 Adam DePinto - depintoadam@gmail.com
