@@ -7,3 +7,5 @@ Manveer Aujla - manveeraujla0226@gmail.com
 Gavin Feher - gavin.feher@gmail.com
 
 Adam DePinto - depintoadam@gmail.com
+
+Last updated: 2025-08-01
